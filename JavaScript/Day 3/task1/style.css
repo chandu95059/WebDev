@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto&display=swap');
+
+
+.container-1{
+    width: 600px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(201, 165, 100);
+    border-radius: 16px;
+    padding: 16px;
+
+}
+
+.alert{
+    width: 600px;
+    margin: 10px auto;
+    background-color: rgb(224, 174, 73);
+    border-radius: 16px;
+    height: 50px;
+    text-align: center;
+    padding: 16px;
+}
+

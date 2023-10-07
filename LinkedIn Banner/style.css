@@ -1,0 +1,23 @@
+.card{
+    width: 500px;
+    margin: 30px auto;
+    padding: 10px;
+}
+.card-img{
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    width: 100%;
+    height: 150px;
+}
+
+.profilepic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -80px;
+    border: white solid 4px;
+}
+
+.content{
+    text-align: center;
+}
