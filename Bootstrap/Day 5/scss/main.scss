@@ -1,0 +1,16 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+
+.modal-body{
+    position: relative;
+}
+
+.model-button-close{
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: inline-block;
+    margin: 10px;
+
+}
